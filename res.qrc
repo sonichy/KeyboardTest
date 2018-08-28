@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>windows.svg</file>
+        <file>menu.svg</file>
+    </qresource>
+</RCC>
